@@ -23,11 +23,12 @@ Happy coding and good luck with your interviews!
 
 # Table of Contents
 
-| No. | Title                                              | Show Answer                                                                                           |
-| --- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| 1   | What is JavaScript?                                | <details><summary><strong><a href="#javascript-overview" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
-| 2   | Where can I use JavaScript?                        | <details><summary><strong><a href="#usage" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
-| 3   | Which libraries and frameworks are built in JavaScript? | <details><summary><strong><a href="#libraries-frameworks" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| No. | Title                                                               | Show Answer                                                                                           |
+| --- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 1   | What is JavaScript?                                                 | <details><summary><strong><a href="#javascript-overview" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 2   | Where can I use JavaScript?                                         | <details><summary><strong><a href="#usage" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 3   | Which libraries and frameworks are built in JavaScript?             | <details><summary><strong><a href="#libraries-frameworks" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 4   | What are primitive and non-primitive data types in JavaScript?       | <details><summary><strong><a href="#data-types" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
 
 ---
 
@@ -81,7 +82,9 @@ These tools and frameworks extend JavaScript's capabilities beyond basic scripti
 
 ---
 
-# Data Types in JavaScript
+## 4. What are primitive and non-primitive data types in JavaScript?
+
+<a name="data-types"></a>
 
 JavaScript supports different data types, categorized into primitive and non-primitive types.
 
