@@ -21,8 +21,6 @@ We welcome contributions! If you have any JavaScript interview questions or answ
 
 Happy coding and good luck with your interviews!
 
----
-
 # Table of Contents
 
 | No. | Title                                              | Show Answer                                                                                           |
@@ -78,6 +76,19 @@ JavaScript has a rich ecosystem of libraries and frameworks that simplify and en
 - **Node.js:** A runtime environment that allows JavaScript to run server-side.
 
 These tools and frameworks extend JavaScript's capabilities beyond basic scripting, enabling robust application development across various platforms.
+
+[Move to Top](#table-of-contents)
+
+---
+
+# Data Types in JavaScript
+
+JavaScript supports different data types, categorized into primitive and non-primitive types.
+
+| Data Type          | Description                                               | Example                  |
+| ------------------ | --------------------------------------------------------- | ------------------------ |
+| Primitive Data Types | Immutable types directly operated upon by the language.    | `number`, `string`, `boolean`, `null`, `undefined`, `symbol`|
+| Non-Primitive Data Types | Mutable types whose values are references.                | `object`, `array`, `function` |
 
 [Move to Top](#table-of-contents)
 
