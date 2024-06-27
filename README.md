@@ -16,11 +16,11 @@ We welcome contributions! If you have any JavaScript interview questions or answ
 
 Happy coding and good luck with your interviews!
 <details>
-<summary><strong><a href="#javascript-overview" style="text-decoration: none; color: blue;">What is JavaScript and who is its creator?</a></strong></summary>
+<summary><strong style="text-decoration: none; color: blue;">What is JavaScript and who is its creator?</strong></summary>
 <br>
 
 # JavaScript Overview
-<a name="javascript-overview"></a>
+
 JavaScript is a versatile, high-level programming language primarily used for adding interactivity to web pages. It operates as an interpreted language, executing code line by line without prior compilation.
 
 ## Purpose and Usage
