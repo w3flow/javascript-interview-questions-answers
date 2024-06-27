@@ -90,10 +90,20 @@ JavaScript supports different data types, categorized into primitive and non-pri
 
 | Data Type          | Description                                               | Example                  |
 | ------------------ | --------------------------------------------------------- | ------------------------ |
-| Primitive Data Types |Primitive data types in JavaScript are immutable (unchangeable) and are directly operated upon by the language. They are stored directly in the variable's memory and are accessed by value.    | `number`, `string`, `boolean`, `null`, `undefined`, `symbol`|
-| Non-Primitive Data Types (Reference Types)|Non-primitive data types are mutable (changeable) and are not stored directly in the variable's allocated memory. Instead, they are stored as references, and accessing these variables points to the reference in memory.                | `object`, `array`, `function` |
+| **Primitive Data Types** | Primitive data types in JavaScript are immutable (unchangeable) and are directly operated upon by the language. They are stored directly in the variable's memory and are accessed by value. | 
+| `number`           | Represents numeric data.                                  | `let count = 10;`        |
+| `string`           | Represents textual data.                                  | `let message = 'Hello';` |
+| `boolean`          | Represents logical values.                                | `let isValid = true;`    |
+| `null`             | Represents intentional absence of any object value.       | `let data = null;`       |
+| `undefined`        | Represents a variable that has been declared but not assigned a value. | `let status;`         |
+| `symbol`           | Represents a unique identifier.                           | `const id = Symbol('unique');` |
 
+| **Non-Primitive Data Types (Reference Types)** | Non-primitive data types are mutable (changeable) and are not stored directly in the variable's allocated memory. Instead, they are stored as references, and accessing these variables points to the reference in memory. |
+| `object`           | Represents a collection of key-value pairs.               | `let person = { name: 'John', age: 30 };` |
+| `array`            | Represents a list-like collection of elements.            | `let numbers = [1, 2, 3, 4, 5];`          |
+| `function`         | Represents a reusable block of code.                      | `function greet(name) { return 'Hello, ' + name; }` |
 
 [Move to Top](#table-of-contents)
+
 
 ---
