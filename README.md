@@ -16,8 +16,9 @@ We welcome contributions! If you have any JavaScript interview questions or answ
 
 Happy coding and good luck with your interviews!
 <details>
-<summary><strong><font color="blue">What is JavaScript and who is its creator?</font></strong></summary>
-<br>
+<summary>
+<a href="#" style="text-decoration: none; color: blue;"><strong>What is JavaScript and who is its creator?</strong></a>
+</summary>
 
 # JavaScript Overview
 
