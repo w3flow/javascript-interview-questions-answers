@@ -16,8 +16,10 @@ We welcome contributions! If you have any JavaScript interview questions or answ
 
 Happy coding and good luck with your interviews!
 <details>
-### **What is JavaScript and who is its creator?**
+  ### What is a freeze method
+<summary><strong><span style="color: blue;">What is JavaScript and who is its creator?</span></strong></summary>
 <br>
+
 
 # JavaScript Overview
 
