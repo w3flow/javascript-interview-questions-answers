@@ -15,7 +15,37 @@ Contributing
 We welcome contributions! If you have any JavaScript interview questions or answers that you'd like to share, please feel free to open an issue or submit a pull request.
 
 Happy coding and good luck with your interviews!
-| Question | Answer |
-| -------- | ------ |
-| What is closure? | A closure is an inner function that has access to the outer function's variables. |
-| What is a callback function? | A callback function is a function passed into another function as an argument. |
+<details>
+<summary><strong style="color: blue;">What is JavaScript and who is its creator?</strong></summary>
+<br>
+
+# JavaScript Overview
+
+JavaScript is a versatile, high-level programming language primarily used for adding interactivity to web pages. It operates as an interpreted language, executing code line by line without prior compilation.
+
+## Purpose and Usage
+
+The core purpose of JavaScript is to enhance user interaction within web pages. Over time, it has expanded its role to include server-side development, mobile app development, and more.
+
+## Historical Context
+
+JavaScript was created by Brendan Eich in 1995 while he was at Netscape Communications Corporation. Originally named "Mocha" and later "LiveScript," it was rebranded as JavaScript to align with the popularity of Java.
+
+## Key Features
+
+- **Dynamic Typing:** Variables can hold values of any data type without explicit declarations.
+  
+- **Prototype-based Object Orientation:** Objects inherit properties and behaviors from prototypes.
+
+- **Functional Programming Support:** Functions are treated as first-class citizens, enabling higher-order functions and closures.
+
+## Ecosystem and Standards
+
+JavaScript's ecosystem includes libraries like React.js and frameworks like Node.js. It follows the ECMAScript specification to ensure cross-platform compatibility and feature standardization.
+
+JavaScript's evolution from a browser scripting language to a versatile programming language underscores its importance in modern software development.
+
+---
+
+</details>
+
