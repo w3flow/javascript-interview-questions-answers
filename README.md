@@ -72,18 +72,4 @@ These tools and frameworks extend JavaScript's capabilities beyond basic scripti
 
 ---
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    // Smooth scroll behavior for Move to Top links
-    const scrollToTopLinks = document.querySelectorAll('a[href="#top"]');
-    scrollToTopLinks.forEach(link => {
-        link.addEventListener("click", function(e) {
-            e.preventDefault();
-            window.scrollTo({
-                top: 0,
-                behavior: "smooth"
-            });
-        });
-    });
-});
-</script>
+
