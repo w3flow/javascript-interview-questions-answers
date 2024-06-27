@@ -15,20 +15,17 @@ Contributing
 We welcome contributions! If you have any JavaScript interview questions or answers that you'd like to share, please feel free to open an issue or submit a pull request.
 
 Happy coding and good luck with your interviews!
-| Title                                               | Show Answer                                                                                           |
-| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| What is JavaScript and who is its creator?           | <details><summary><strong><a href="#javascript-overview" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
-| How does JavaScript handle asynchronous operations? | <details><summary><strong><a href="#async-operations" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| Title                                              | Show Answer                                                                                           |
+| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| What is JavaScript?                                | <details><summary><strong><a href="#javascript-overview" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| Where can I use JavaScript?                        | <details><summary><strong><a href="#usage" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| Which libraries and frameworks are built in JavaScript? | <details><summary><strong><a href="#libraries-frameworks" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
 
-# JavaScript Overview
+# What is JavaScript?
 
 <a name="javascript-overview"></a>
 
 JavaScript is a versatile, high-level programming language primarily used for adding interactivity to web pages. It operates as an interpreted language, executing code line by line without prior compilation.
-
-## Purpose and Usage
-
-The core purpose of JavaScript is to enhance user interaction within web pages. Over time, it has expanded its role to include server-side development, mobile app development, and more.
 
 ## Historical Context
 
@@ -42,18 +39,28 @@ JavaScript was created by Brendan Eich in 1995 while he was at Netscape Communic
 
 - **Functional Programming Support:** Functions are treated as first-class citizens, enabling higher-order functions and closures.
 
-## Ecosystem and Standards
+---
 
-JavaScript's ecosystem includes libraries like React.js and frameworks like Node.js. It follows the ECMAScript specification to ensure cross-platform compatibility and feature standardization.
+# Where can I use JavaScript?
 
-JavaScript's evolution from a browser scripting language to a versatile programming language underscores its importance in modern software development.
+<a name="usage"></a>
+
+JavaScript can be used for both client-side and server-side development. It's integral to creating interactive web pages, developing web and mobile applications, building APIs, and even for server-side programming using platforms like Node.js.
 
 ---
 
-<details>
-<summary><strong><a name="async-operations"></a>How does JavaScript handle asynchronous operations?</strong></summary>
-<br>
+# Which libraries and frameworks are built in JavaScript?
 
-Answer goes here for asynchronous operations.
+<a name="libraries-frameworks"></a>
 
-</details>
+JavaScript has a rich ecosystem of libraries and frameworks that simplify and enhance development. Some popular examples include:
+
+- **React.js:** A JavaScript library for building user interfaces.
+  
+- **AngularJS and Angular:** Frameworks for building web applications.
+
+- **Node.js:** A runtime environment that allows JavaScript to run server-side.
+
+These tools and frameworks extend JavaScript's capabilities beyond basic scripting, enabling robust application development across various platforms.
+
+---
