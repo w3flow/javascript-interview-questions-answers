@@ -15,13 +15,14 @@ Contributing
 We welcome contributions! If you have any JavaScript interview questions or answers that you'd like to share, please feel free to open an issue or submit a pull request.
 
 Happy coding and good luck with your interviews!
-| Title                                              | Show Answer                                                                                           |
-| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| What is JavaScript?                                | <details><summary><strong><a href="#javascript-overview" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
-| Where can I use JavaScript?                        | <details><summary><strong><a href="#usage" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
-| Which libraries and frameworks are built in JavaScript? | <details><summary><strong><a href="#libraries-frameworks" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
 
-# What is JavaScript?
+| No. | Title                                              | Show Answer                                                                                           |
+| --- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 1   | What is JavaScript?                                | <details><summary><strong><a href="#javascript-overview" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 2   | Where can I use JavaScript?                        | <details><summary><strong><a href="#usage" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 3   | Which libraries and frameworks are built in JavaScript? | <details><summary><strong><a href="#libraries-frameworks" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+
+# 1. What is JavaScript?
 
 <a name="javascript-overview"></a>
 
@@ -41,7 +42,7 @@ JavaScript was created by Brendan Eich in 1995 while he was at Netscape Communic
 
 ---
 
-# Where can I use JavaScript?
+# 2. Where can I use JavaScript?
 
 <a name="usage"></a>
 
@@ -49,7 +50,7 @@ JavaScript can be used for both client-side and server-side development. It's in
 
 ---
 
-# Which libraries and frameworks are built in JavaScript?
+# 3. Which libraries and frameworks are built in JavaScript?
 
 <a name="libraries-frameworks"></a>
 
