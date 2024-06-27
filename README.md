@@ -15,11 +15,14 @@ Contributing
 We welcome contributions! If you have any JavaScript interview questions or answers that you'd like to share, please feel free to open an issue or submit a pull request.
 
 Happy coding and good luck with your interviews!
-<details>
-<summary><strong color: blue>What is JavaScript and who is its creator?</strong></summary>
-<br>
+| Title                                               | Show Answer                                                                                           |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| What is JavaScript and who is its creator?           | <details><summary><strong><a href="#javascript-overview" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| How does JavaScript handle asynchronous operations? | <details><summary><strong><a href="#async-operations" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
 
 # JavaScript Overview
+
+<a name="javascript-overview"></a>
 
 JavaScript is a versatile, high-level programming language primarily used for adding interactivity to web pages. It operates as an interpreted language, executing code line by line without prior compilation.
 
@@ -46,5 +49,11 @@ JavaScript's ecosystem includes libraries like React.js and frameworks like Node
 JavaScript's evolution from a browser scripting language to a versatile programming language underscores its importance in modern software development.
 
 ---
+
+<details>
+<summary><strong><a name="async-operations"></a>How does JavaScript handle asynchronous operations?</strong></summary>
+<br>
+
+Answer goes here for asynchronous operations.
 
 </details>
