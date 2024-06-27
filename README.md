@@ -15,3 +15,7 @@ Contributing
 We welcome contributions! If you have any JavaScript interview questions or answers that you'd like to share, please feel free to open an issue or submit a pull request.
 
 Happy coding and good luck with your interviews!
+| Question | Answer |
+| -------- | ------ |
+| What is closure? | A closure is an inner function that has access to the outer function's variables. |
+| What is a callback function? | A callback function is a function passed into another function as an argument. |
