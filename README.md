@@ -16,7 +16,7 @@ We welcome contributions! If you have any JavaScript interview questions or answ
 
 Happy coding and good luck with your interviews!
 <details>
-<summary><strong>### **What is JavaScript and who is its creator?**</strong></summary>
+### **What is JavaScript and who is its creator?**
 <br>
 
 # JavaScript Overview
