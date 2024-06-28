@@ -149,7 +149,7 @@ person2.age = 35;
 
 console.log(person1.age); // Output: 35 (because person1 and person2 point to the same object)
 
-[Move to Top](#references-types)
+[Move to Top](#table-of-contents)
 
 ---
 
