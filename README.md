@@ -88,7 +88,7 @@ These tools and frameworks extend JavaScript's capabilities beyond basic scripti
 
 JavaScript supports different data types, categorized into primitive and non-primitive types.
 
-##Primitive data types in JavaScript are immutable (unchangeable) and directly operated upon by the language.
+- **Primitive data:**Primitive data types in JavaScript are immutable (unchangeable) and are directly operated upon by the language. They are stored directly in the variable's memory and are accessed by value.
 
 | Data Type   | Description                                               | Example                  |
 | ----------- | --------------------------------------------------------- | ------------------------ |
@@ -100,7 +100,7 @@ JavaScript supports different data types, categorized into primitive and non-pri
 | `symbol`    | Represents a unique identifier.                           | `const id = Symbol('unique');` |
 
 
-##Non-primitive data types in JavaScript are mutable (changeable) and stored as references.
+- **Non-primitive:**Non-primitive data types are mutable (changeable) and are not stored directly in the variable's allocated memory. Instead, they are stored as references, and accessing these variables points to the reference in memory.
 
 | Data Type   | Description                                               | Example                                      |
 | ----------- | --------------------------------------------------------- | -------------------------------------------- |
