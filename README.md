@@ -23,13 +23,13 @@ Happy coding and good luck with your interviews!
 
 # Table of Contents
 
-| No. | Title                                                               | Show Answer                                                                                           |
-| --- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| 1   | What is JavaScript?                                                 | <details><summary><strong><a href="#javascript-overview" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
-| 2   | Where can I use JavaScript?                                         | <details><summary><strong><a href="#usage" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
-| 3   | Which libraries and frameworks are built in JavaScript?             | <details><summary><strong><a href="#libraries-frameworks" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
-| 4   | What are primitive and non-primitive data types in JavaScript?       | <details><summary><strong><a href="#data-types" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
-| 5   | Understanding References in JavaScript       | <details><summary><strong><a href="#references-types" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| No. | Title                                                          | Show Answer                                                                                                                                  |
+| --- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | What is JavaScript?                                            | <details><summary><strong><a href="#javascript-overview" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>  |
+| 2   | Where can I use JavaScript?                                    | <details><summary><strong><a href="#usage" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>                |
+| 3   | Which libraries and frameworks are built in JavaScript?        | <details><summary><strong><a href="#libraries-frameworks" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 4   | What are primitive and non-primitive data types in JavaScript? | <details><summary><strong><a href="#data-types" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>           |
+| 5   | Understanding References in JavaScript                         | <details><summary><strong><a href="#references-types" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>     |
 
 ---
 
@@ -46,7 +46,6 @@ JavaScript was created by Brendan Eich in 1995 while he was at Netscape Communic
 ### Key Features
 
 - **Dynamic Typing:** Variables can hold values of any data type without explicit declarations.
-  
 - **Prototype-based Object Orientation:** Objects inherit properties and behaviors from prototypes.
 
 - **Functional Programming Support:** Functions are treated as first-class citizens, enabling higher-order functions and closures.
@@ -72,7 +71,6 @@ JavaScript can be used for both client-side and server-side development. It's in
 JavaScript has a rich ecosystem of libraries and frameworks that simplify and enhance development. Some popular examples include:
 
 - **React.js:** A JavaScript library for building user interfaces.
-  
 - **AngularJS and Angular:** Frameworks for building web applications.
 
 - **Node.js:** A runtime environment that allows JavaScript to run server-side.
@@ -91,28 +89,29 @@ JavaScript supports different data types, categorized into primitive and non-pri
 
 - Primitive data: Primitive data types in JavaScript are immutable (unchangeable) and are directly operated upon by the language. They are stored directly in the variable's memory and are accessed by value.
 
-| Data Type   | Description                                               | Example                  |
-| ----------- | --------------------------------------------------------- | ------------------------ |
-| `number`    | Represents numeric data.                                  | `let count = 10;`        |
-| `string`    | Represents textual data.                                  | `let message = 'Hello';` |
-| `boolean`   | Represents logical values.                                | `let isValid = true;`    |
-| `null`      | Represents intentional absence of any object value.       | `let data = null;`       |
-| `undefined` | Represents a variable declared but not assigned a value.   | `let status;`             |
-| `symbol`    | Represents a unique identifier.                           | `const id = Symbol('unique');` |
-
+| Data Type   | Description                                              | Example                        |
+| ----------- | -------------------------------------------------------- | ------------------------------ |
+| `number`    | Represents numeric data.                                 | `let count = 10;`              |
+| `string`    | Represents textual data.                                 | `let message = 'Hello';`       |
+| `boolean`   | Represents logical values.                               | `let isValid = true;`          |
+| `null`      | Represents intentional absence of any object value.      | `let data = null;`             |
+| `undefined` | Represents a variable declared but not assigned a value. | `let status;`                  |
+| `symbol`    | Represents a unique identifier.                          | `const id = Symbol('unique');` |
 
 - Non-primitive: Non-primitive data types are mutable (changeable) and are not stored directly in the variable's allocated memory. Instead, they are stored as references, and accessing these variables points to the reference in memory.
 
-| Data Type   | Description                                               | Example                                      |
-| ----------- | --------------------------------------------------------- | -------------------------------------------- |
-| `object`    | Represents a collection of key-value pairs.               | `let person = { name: 'John', age: 30 };`    |
-| `array`     | Represents a list-like collection of elements.            | `let numbers = [1, 2, 3, 4, 5];`              |
-| `function`  | Represents a reusable block of code.                      | `function greet(name) { return 'Hello, ' + name; }` |
+| Data Type  | Description                                    | Example                                             |
+| ---------- | ---------------------------------------------- | --------------------------------------------------- |
+| `object`   | Represents a collection of key-value pairs.    | `let person = { name: 'John', age: 30 };`           |
+| `array`    | Represents a list-like collection of elements. | `let numbers = [1, 2, 3, 4, 5];`                    |
+| `function` | Represents a reusable block of code.           | `function greet(name) { return 'Hello, ' + name; }` |
 
 [Move to Top](#table-of-contents)
 
 ---
+
 ## Understanding References in JavaScript.
+
 <a name="references-types"></a>
 
 In JavaScript, references play a crucial role in how non-primitive data types are managed in memory. Unlike primitive data types (like numbers and strings) that are stored directly in the variable's location, non-primitive types (such as objects, arrays, and functions) are stored as references.
@@ -135,7 +134,8 @@ When you create a non-primitive data type, what actually gets stored in the vari
 
 ### Example
 
-```javascript
+<!-- ```javascript -->
+
 // Example of referencing in JavaScript
 
 // Object creation
@@ -152,4 +152,3 @@ console.log(person1.age); // Output: 35 (because person1 and person2 point to th
 [Move to Top](#table-of-contents)
 
 ---
-
