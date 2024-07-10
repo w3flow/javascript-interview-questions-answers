@@ -30,6 +30,7 @@ Happy coding and good luck with your interviews!
 | 3   | Which libraries and frameworks are built in JavaScript?        | <details><summary><strong><a href="#libraries-frameworks" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
 | 4   | What are primitive and non-primitive data types in JavaScript? | <details><summary><strong><a href="#data-types" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>           |
 | 5   | Understanding References in JavaScript                         | <details><summary><strong><a href="#references-types" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>     |
+| 6   | Including JavaScript Code in an HTML Document                         | <details><summary><strong><a href="#including-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>     |
 
 ---
 
@@ -149,6 +150,30 @@ person2.age = 35;
 
 console.log(person1.age); // Output: 35 (because person1 and person2 point to the same object)
 
+[Move to Top](#table-of-contents)
+
+---
+## 6. Including JavaScript Code in an HTML Document?
+
+<a name="including-JavaScript"></a>
+
+To include JavaScript code in an HTML document, you can use the <script> tag. Here's how it works:
+
+### Script Tag
+
+Use the `<script>` tag within the `<head>` or `<body>` section of your HTML document.
+
+### Inline JavaScript
+
+You can write JavaScript code directly within `<script>` tags in your HTML file:
+
+<script>
+    // Your JavaScript code here
+    alert('Hello, World!');
+</script>
+### Inline JavaScript
+Alternatively, you can link to an external JavaScript file using the src attribute of the <script> tag.
+<script src="path/to/your/script.js"></script>
 [Move to Top](#table-of-contents)
 
 ---
