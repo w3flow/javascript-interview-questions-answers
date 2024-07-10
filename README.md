@@ -67,7 +67,7 @@ Happy coding and good luck with your interviews!
 | 40  | How do you add and remove items from an array in JavaScript?                | <details><summary><strong><a href="#add-remove-items-array-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |                                                                                            |
 | 41  | How do you change the content of an HTML element using JavaScript?           | <details><summary><strong><a href="#change-HTML-element-content-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
 | 42 | What is type coercion in JavaScript?                                         | <details><summary><strong><a href="#type-coercion-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
-| #   | ## Intermediate JavaScript Questions                                                                      | Answer                                                                                           |
+| #   | Intermediate JavaScript Questions                                                                      | Answer                                                                                           |
 | 43  | What is the `this` keyword, and how is its context determined?               | <details><summary><strong><a href="#this-keyword-context-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
 | 44  | How do you clone an object in JavaScript?                                    | <details><summary><strong><a href="#clone-object-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
 | 45  | What are the different ways to iterate over an array in JavaScript?          | <details><summary><strong><a href="#iterate-array-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
@@ -94,7 +94,7 @@ Happy coding and good luck with your interviews!
 | 66  | What is the `Reflect` object, and how is it used in JavaScript?              | <details><summary><strong><a href="#Reflect-object-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
 | 67  | How do you debounce a function in JavaScript?                                 | <details><summary><strong><a href="#debounce-function-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
 | 68  | What is the `window` object in JavaScript, and what are its properties and methods? | <details><summary><strong><a href="#window-object-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
-
+| 68  | What is the `window` object in JavaScript, and what are its properties and methods? | <details><summary><strong><a href="#window-object-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
 ---
 
 ## 1. What is JavaScript?
