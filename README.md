@@ -94,8 +94,8 @@ Happy coding and good luck with your interviews!
 | 66  | What is the `Reflect` object, and how is it used in JavaScript?              | <details><summary><strong><a href="#Reflect-object-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
 | 67  | How do you debounce a function in JavaScript?                                 | <details><summary><strong><a href="#debounce-function-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
 | 68  | What is the `window` object in JavaScript, and what are its properties and methods? | <details><summary><strong><a href="#window-object-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
-| #   | Advanced JavaScript Questions                                                                      | Answer                                                                                           |
-
+| #   | Content                                                                      | Answer                                                                                           |
+|-----|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | 69  | How do you use Proxy and Reflect in JavaScript?                               | <details><summary><strong><a href="#Proxy-Reflect-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
 | 70  | What is the concept of "hoisting" in JavaScript?                              | <details><summary><strong><a href="#hoisting-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
 | 71  | What is a service worker in JavaScript?                                       | <details><summary><strong><a href="#service-worker-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
