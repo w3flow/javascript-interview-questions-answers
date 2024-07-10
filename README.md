@@ -31,6 +31,12 @@ Happy coding and good luck with your interviews!
 | 4   | What are primitive and non-primitive data types in JavaScript? | <details><summary><strong><a href="#data-types" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>           |
 | 5   | Understanding References in JavaScript                         | <details><summary><strong><a href="#references-types" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>     |
 | 6   | Including JavaScript Code in an HTML Document                         | <details><summary><strong><a href="#including-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br>     |
+| 7   | What is the difference between `let`, `var`, and `const`?    | <details><summary><strong><a href="#let-var-const" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 8   | How do you create a function in JavaScript?                  | <details><summary><strong><a href="#create-function" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 9   | What is a JavaScript object, and how do you create one?      | <details><summary><strong><a href="#JavaScript-object" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 10   | What are arrays in JavaScript, and how do you use them?      | <details><summary><strong><a href="#arrays-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 11   | How do you write comments in JavaScript?                     | <details><summary><strong><a href="#comments-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 12  | What is the purpose of the `this` keyword in JavaScript?     | <details><summary><strong><a href="#this-keyword-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
 
 ---
 
