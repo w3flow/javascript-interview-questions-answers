@@ -375,7 +375,7 @@ When you create a non-primitive data type, what actually gets stored in the vari
 
 ### Example
 
-<!-- ```javascript -->
+
 
 // Example of referencing in JavaScript
 
@@ -416,4 +416,5 @@ Alternatively, you can link to an external JavaScript file using the src attribu
 <script src="path/to/your/script.js"></script>
 [Move to Top](#table-of-contents)
 
+## 7. What is the difference between `let`, `var`, and `const`?
 ---
