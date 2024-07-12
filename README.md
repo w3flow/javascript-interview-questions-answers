@@ -291,7 +291,7 @@ JavaScript was created by Brendan Eich in 1995 while he was at Netscape Communic
 
 - **Functional Programming Support:** Functions are treated as first-class citizens, enabling higher-order functions and closures.
 
-[Move to Top](#table-of-contents)
+[Move to Top](#javascript-overview)
 
 ---
 
