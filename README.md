@@ -351,7 +351,7 @@ JavaScript supports different data types, categorized into primitive and non-pri
 
 ---
 
-## Understanding References in JavaScript.
+## 5. Understanding References in JavaScript.
 
 <a name="references-types"></a>
 
