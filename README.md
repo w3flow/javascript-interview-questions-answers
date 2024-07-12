@@ -207,6 +207,27 @@ Happy coding and good luck with your interviews!
 | 177 | How do you use the setTimeout function to delay the execution of code?        | <details><summary><strong><a href="#setTimeout-function-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
 | 178 | How do you clear a timeout or interval that you have set?                     | <details><summary><strong><a href="#clearTimeout-clearInterval-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
 | 179 | How do you use the alert, prompt, and confirm methods for user interaction?   | <details><summary><strong><a href="#user-interaction-methods-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 180      | What are async functions and how do you use them?             | <details><summary><strong><a href="#async-functions-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 181      | How do you use the async/await syntax in JavaScript?          | <details><summary><strong><a href="#async-await-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 182      | What is the purpose of the try...catch statement in JavaScript? | <details><summary><strong><a href="#try-catch-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 183      | How do you handle errors in asynchronous code in JavaScript?  | <details><summary><strong><a href="#error-handling-async-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 184      | What is callback hell, and how do you avoid it?               | <details><summary><strong><a href="#callback-hell-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 185      | How do you use named exports in JavaScript modules?           | <details><summary><strong><a href="#named-exports-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 186      | How do you use default exports in JavaScript modules?         | <details><summary><strong><a href="#default-exports-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 187      | What are JavaScript modules, and how do you use them?        | <details><summary><strong><a href="#JavaScript-modules" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 188      | How do you import and export modules in JavaScript?           | <details><summary><strong><a href="#import-export-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 189      | How do you implement inheritance in JavaScript using classes? | <details><summary><strong><a href="#inheritance-classes-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 190      | What are JavaScript decorators, and how do you use them?     | <details><summary><strong><a href="#decorators-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 191      | What are generators in JavaScript, and how do they work?      | <details><summary><strong><a href="#generators-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 192      | How do you create iterators in JavaScript?                    | <details><summary><strong><a href="#iterators-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 193      | How do you use symbols in JavaScript?                         | <details><summary><strong><a href="#symbols-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 194      | What are Sets and how do you use them in JavaScript?          | <details><summary><strong><a href="#sets-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 195      | How do you use Promises in JavaScript?                        | <details><summary><strong><a href="#promises-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 196      | How do you use async/await in JavaScript?                     | <details><summary><strong><a href="#async-await-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 197      | What is Event Delegation in JavaScript?                       | <details><summary><strong><a href="#event-delegation-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 198      | How do you handle Cross-Site Scripting (XSS) in JavaScript?   | <details><summary><strong><a href="#XSS-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 199      | What is the JavaScript Event Loop?                           | <details><summary><strong><a href="#event-loop-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
+| 200      | How do you implement a callback function in JavaScript?       | <details><summary><strong><a href="#callback-JavaScript" style="text-decoration: none; color: blue;">Show Answer</a></strong></summary><br> |
 
 
 ---
