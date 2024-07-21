@@ -539,7 +539,7 @@ const greet = (name) => {
 // Calling the function
 console.log(greet("Eve")); // Outputs: Hello, Eve!
 </pre>
-## 4. Method Functions (Object method function)
+### 4. Method Functions (Object method function)
 In JavaScript, functions can also be defined as methods within objects or classes. These functions are associated with specific objects and are invoked using dot notation (object.method())
 ### Example:
 <pre>
