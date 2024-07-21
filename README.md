@@ -375,8 +375,6 @@ When you create a non-primitive data type, what actually gets stored in the vari
 
 ### Example
 
-
-
 // Example of referencing in JavaScript
 
 // Object creation
@@ -393,6 +391,7 @@ console.log(person1.age); // Output: 35 (because person1 and person2 point to th
 [Move to Top](#table-of-contents)
 
 ---
+
 ## 6. Including JavaScript Code in an HTML Document?
 
 <a name="including-JavaScript"></a>
@@ -411,10 +410,43 @@ You can write JavaScript code directly within `<script>` tags in your HTML file:
     // Your JavaScript code here
     alert('Hello, World!');
 </script>
-### Inline JavaScript
-Alternatively, you can link to an external JavaScript file using the src attribute of the <script> tag.
-<script src="path/to/your/script.js"></script>
-[Move to Top](#table-of-contents)
 
-## 7. What is the difference between `let`, `var`, and `const`?
----
+### Inline JavaScript
+
+Alternatively, you can link to an external JavaScript file using the src attribute of the <script> tag.
+
+<script src="path/to/your/script.js"></script>
+
+## [Move to Top](#table-of-contents)
+
+## 7. What is the difference between let, var, and const?
+
+<a name="let-var-const"></a>
+
+In JavaScript, let, var, and const are used to declare variables, but they behave differently in terms of scoping, hoisting, and mutability. Understanding their differences is crucial for writing clean and maintainable code.
+
+### `var`
+In JavaScript, variables can be declared using `var`. Understanding how `var` behaves in terms of scoping, hoisting, and mutability is important for writing robust and maintainable code.
+
+
+- **Scope:** `var` variables are function-scoped or globally-scoped. They are not block-scoped, which means they are visible throughout the entire function or global context.
+- **Hoisting:** Variables declared with `var` are hoisted to the top of their function or global scope. This means you can use the variable before it's declared in the code.
+- **Reassignable:** `var` variables can be redeclared and reassigned within their scope.
+
+Example:
+<pre>
+function example() {
+  var x = 10;
+  if (true) {
+    var x = 20;
+    console.log(x); // Outputs: 20
+  }
+  console.log(x); // Outputs: 20
+}
+   ```javascript
+   console.log("This is inside the first item");
+   ```
+
+</pre>
+
+## [Move to Top](#table-of-contents)
