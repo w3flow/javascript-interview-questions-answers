@@ -1,0 +1,14 @@
+## 3. Which libraries and frameworks are built in JavaScript?
+
+<a name="libraries-frameworks"></a>
+
+JavaScript has a rich ecosystem of libraries and frameworks that simplify and enhance development. Some popular examples include:
+
+- **React.js:** A JavaScript library for building user interfaces.
+- **AngularJS and Angular:** Frameworks for building web applications.
+
+- **Node.js:** A runtime environment that allows JavaScript to run server-side.
+
+These tools and frameworks extend JavaScript's capabilities beyond basic scripting, enabling robust application development across various platforms.
+
+[Move to Top](#table-of-contents)
