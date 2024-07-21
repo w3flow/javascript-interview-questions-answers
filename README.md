@@ -417,7 +417,7 @@ Alternatively, you can link to an external JavaScript file using the src attribu
 
 <script src="path/to/your/script.js"></script>
 
-## [Move to Top](#table-of-contents)
+ [Move to Top](#table-of-contents)
 
 ## 7. What is the difference between let, var, and const?
 
@@ -496,4 +496,62 @@ When working with variables in JavaScript, choosing between `let`, `var`, and `c
 - **Avoid `var` unless necessary:** `var` has broader scope rules and can lead to unexpected behaviors due to hoisting and lack of block scoping. However, in some legacy code or specific scenarios where you need function-scoped variables, `var` may still be used.
 
 Understanding the differences between `let`, `var`, and `const` will enable you to choose the appropriate variable declaration based on your specific programming needs and best practices.
-## [Move to Top](#table-of-contents)
+ [Move to Top](#table-of-contents)
+
+## 8. How do you create a function in JavaScript?
+<a name="create-function"></a>
+
+Functions in JavaScript are essential for organizing and reusing code. There are several methods to create functions, each suited for different scenarios and coding styles.
+### 1. Function Declaration (Named function declaration)
+
+Function declarations are defined using the `function` keyword, followed by the function name, parameters (optional), and a function body enclosed in curly braces `{}`.
+### Example:
+<pre>
+// Function declaration
+function greet(name) {
+  return `Hello, ${name}!`;
+}
+
+// Calling the function
+console.log(greet("Alice")); // Outputs: Hello, Alice!
+</pre>
+### 2. Function Expression (anonymous function)
+Function expressions define functions using the function keyword without specifying a function name (anonymous function). These can be assigned to variables or passed as arguments to other functions.
+### Example:
+<pre>
+// Function expression (anonymous function)
+const greet = function(name) {
+  return `Hello, ${name}!`;
+};
+
+// Calling the function
+console.log(greet("Bob")); // Outputs: Hello, Bob!
+</pre>
+### 3. Arrow Function (ES6+)
+Arrow functions provide a concise syntax introduced in ES6. They use the => syntax and automatically bind this to the surrounding context.
+### Example:
+<pre>
+// Arrow function
+const greet = (name) => {
+  return `Hello, ${name}!`;
+};
+
+// Calling the function
+console.log(greet("Eve")); // Outputs: Hello, Eve!
+</pre>
+## 4. Method Functions (Object method function)
+In JavaScript, functions can also be defined as methods within objects or classes. These functions are associated with specific objects and are invoked using dot notation (object.method())
+### Example:
+<pre>
+// Method function
+const person = {
+  name: "John",
+  greet: function() {
+    return `Hello, ${this.name}!`;
+  }
+};
+
+// Calling the method function
+console.log(person.greet()); // Outputs: Hello, John!
+</pre>
+[Move to Top](#table-of-contents)
