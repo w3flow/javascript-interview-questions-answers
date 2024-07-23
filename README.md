@@ -716,3 +716,33 @@ console.log(fruits); // Outputs: ['Apple', 'Orange', 'Cherry', 'Date', 'Fig']
 </pre>
 
 [Move to Top](#table-of-contents)
+## 11. How do you write comments in JavaScript?
+
+<a name="comments-JavaScript"></a>
+
+In JavaScript, comments are used to annotate code and provide explanations or notes that are ignored by the JavaScript engine during execution. They are helpful for documenting code, explaining functionality, and making it easier for other developers (or your future self) to understand.
+### Types of Comments
+JavaScript supports two main types of comments:
+
+### 1. Single-Line Comments:
+Single-line comments start with // and continue until the end of the line. They are used for brief comments on a single line of code.
+<pre>
+// This is a single-line comment
+let greeting = 'Hello'; // This comment explains the variable purpose
+
+</pre>
+
+### 2. Multi-Line Comments:
+Multi-line comments start with /* and end with */. They can span across multiple lines and are typically used for longer explanations or commenting out multiple lines of code.
+<pre>
+/*
+ * This is a multi-line comment.
+ * It can span across several lines.
+ * These comments are often used for detailed explanations or notes.
+ */
+
+let message = 'Welcome'; /* This comment is inline with code */
+
+</pre>
+
+[Move to Top](#table-of-contents)
