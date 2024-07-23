@@ -555,3 +555,113 @@ const person = {
 console.log(person.greet()); // Outputs: Hello, John!
 </pre>
 [Move to Top](#table-of-contents)
+
+## 9. What is a JavaScript object, and how do you create one?
+
+<a name="JavaScript-object"></a>
+
+In JavaScript, an object is a fundamental data structure consisting of key-value pairs. It allows you to store and access data through named properties. Objects are versatile and can represent complex data structures.
+### Creating an Object
+There are several ways to create objects in JavaScript:
+
+### 1. Object Literal Syntax
+<pre>
+let person = {
+    firstName: 'John',
+    lastName: 'Doe',
+    age: 30,
+    hobbies: ['reading', 'music', 'sports'],
+    address: {
+        street: '123 Main St',
+        city: 'Anytown',
+        state: 'CA'
+    },
+    fullName: function() {
+        return this.firstName + ' ' + this.lastName;
+    }
+};
+</pre>
+
+### 2. Using the new Keyword with Object Constructor.
+<pre>
+let person = new Object();
+person.firstName = 'John';
+person.lastName = 'Doe';
+person.age = 30;
+person.hobbies = ['reading', 'music', 'sports'];
+person.address = {
+    street: '123 Main St',
+    city: 'Anytown',
+    state: 'CA'
+};
+person.fullName = function() {
+    return this.firstName + ' ' + this.lastName;
+};
+
+</pre>
+### 3. Using Object.create() Method.
+<pre>
+let personPrototype = {
+    fullName: function() {
+        return this.firstName + ' ' + this.lastName;
+    }
+};
+
+let person = Object.create(personPrototype);
+person.firstName = 'John';
+person.lastName = 'Doe';
+person.age = 30;
+person.hobbies = ['reading', 'music', 'sports'];
+person.address = {
+    street: '123 Main St',
+    city: 'Anytown',
+    state: 'CA'
+};
+
+</pre>
+### 4. Using ES6 Classes.
+<pre>
+class Person {
+    constructor(firstName, lastName, age) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.age = age;
+    }
+
+    fullName() {
+        return `${this.firstName} ${this.lastName}`;
+    }
+}
+
+let person = new Person('John', 'Doe', 30);
+
+</pre>
+### Accessing Object Properties
+You can access properties of an object using dot notation (.) or bracket notation ([]):
+<pre>
+console.log(person.firstName); // Outputs: John
+console.log(person['lastName']); // Outputs: Doe
+
+</pre>
+### Modifying Object Properties
+You can modify properties of an object after its creation:
+<pre>
+person.age = 32;
+person['hobbies'].push('painting');
+
+</pre>
+### Object Methods
+Objects can contain functions as values. These functions are called methods:
+<pre>
+let person = {
+    firstName: 'John',
+    lastName: 'Doe',
+    fullName: function() {
+        return this.firstName + ' ' + this.lastName;
+    }
+};
+
+console.log(person.fullName()); // Outputs: John Doe
+
+</pre>
+[Move to Top](#table-of-contents)
