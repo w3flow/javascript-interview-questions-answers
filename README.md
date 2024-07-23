@@ -662,6 +662,57 @@ let person = {
 };
 
 console.log(person.fullName()); // Outputs: John Doe
+</pre>
+[Move to Top](#table-of-contents)
+## 10. What are arrays in JavaScript, and how do you use them?
+
+<a name="arrays-JavaScript"></a>
+
+In JavaScript, an array is a special type of object used to store multiple values in a single variable. Arrays allow you to group values of any data type (including other arrays) sequentially under a single identifier. They are versatile and commonly used for storing lists of items or collections of related data.
+### Creating Arrays
+There are several ways to create arrays in JavaScript:
+
+### 1. Array Literal Syntax.
+<pre>
+let fruits = ['Apple', 'Banana', 'Cherry', 'Date'];
+</pre>
+
+### 2. Using the new Keyword with Array Constructor.
+<pre>
+let fruits = new Array('Apple', 'Banana', 'Cherry', 'Date');
+</pre>
+However, using array literal syntax ([]) is generally preferred due to its simplicity and readability.
+- **Accessing Array Elements:** 
+You can access elements in an array using square brackets ([]) and the index of the element (0-based index):
+
+
+<pre>
+let fruits = ['Apple', 'Banana', 'Cherry', 'Date'];
+
+console.log(fruits[0]); // Outputs: Apple
+console.log(fruits[2]); // Outputs: Cherry
+</pre>
+- **Modifying Array Elements:** 
+You can modify elements in an array directly by assigning a new value to a specific index:
+<pre>
+let fruits = ['Apple', 'Banana', 'Cherry', 'Date'];
+
+fruits[1] = 'Orange';
+console.log(fruits); // Outputs: ['Apple', 'Orange', 'Cherry', 'Date']
+</pre>
+- **Array Properties and Methods** 
+Arrays in JavaScript have various properties and methods that allow you to manipulate them effectively:
+- ***Length Property*** : Returns the number of elements in the array.
+<pre>
+console.log(fruits.length); // Outputs: 4
 
 </pre>
+- ***Push Method*** : Adds one or more elements to the end of an array and returns the new length of the array.
+
+<pre>
+fruits.push('Fig');
+console.log(fruits); // Outputs: ['Apple', 'Orange', 'Cherry', 'Date', 'Fig']
+
+</pre>
+
 [Move to Top](#table-of-contents)
